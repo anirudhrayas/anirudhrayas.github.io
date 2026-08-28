@@ -6,7 +6,7 @@ subtitle: <a href='https://thegameschool.asu.edu'>Postdoc @ASU</a>, <a href='htt
 
 profile:
   align: right
-  image: prof_pic1.png
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Goldwater Centre 425</p>
